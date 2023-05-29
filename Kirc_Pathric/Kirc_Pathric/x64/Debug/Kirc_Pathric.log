@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\FINALLY\Kirc_Pathric\Kirc_Pathric\support.h(64,37): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\FINALLY\Kirc_Pathric\Kirc_Pathric\support.h(65,37): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\FINALLY\Kirc_Pathric\Kirc_Pathric\support.h(133,42): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\FINALLY\Kirc_Pathric\Kirc_Pathric\Kirkpathric.h(66,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\FINALLY\Kirc_Pathric\Kirc_Pathric\main.cpp(16,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\FINALLY\Kirc_Pathric\Kirc_Pathric\class.h(107): warning C4715: ConvexHull::indexOf: значение возвращается не при всех путях выполнения
+  Kirc_Pathric.vcxproj -> C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\FINALLY\Kirc_Pathric\x64\Debug\Kirc_Pathric.exe
